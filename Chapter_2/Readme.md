@@ -1,18 +1,25 @@
-1) What directory are you in?
-command=pwd
+###Chapter 2
 
-answer: the home directory
-2) Are you in the class directory?
-command=pwd
-answer: no
-3) Are you in your home directory?
-command=pwd
-answer: yes, I am in my home directory
-4) What directory did you run that command in?
-command=pwd
-answer: the home directory
+##Paths, Folders, Directories (pwd)
 
-To find the path to this readme file in the graphical browser:
+##Questions:
+#What directory are you in?
+Users/dcasserleigh/workspace/davinci_coders_t1_2016/homework
+/learn_command_line_exercises/Chapter_2
+I would use the command (pwd) to determine what directory I am in.
+
+#Are you in the class directory? (pwd)
+Yes.  I am in the class directory.  However, my current working directory is 
+Chapter_2
+
+#Are you in your home directory? (pwd)
+Yes. I am in my home directory.
+
+#What directory did you run that command in?
+Chapter_2
+
+
+#To find the path to this readme file in the graphical browser:
 click on finder icon on your desktop
 click on the house icon that indicates your home directory
 and has your user name next to it.
