@@ -1,5 +1,6 @@
 1) What directory are you in?
 command=pwd
+
 answer: the home directory
 2) Are you in the class directory?
 command=pwd
