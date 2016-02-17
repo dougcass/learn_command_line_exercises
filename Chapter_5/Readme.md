@@ -24,9 +24,9 @@ cd temp
 #Why don't we go into the temp directory?
 cd temp
 #Can you go to the slash temp directory
-cd temp/
+cd /tmp
 #Can you go to the slash temp slash log directory?
-cd temp/log
+cd /tmp/log
 #What does the .. argument to cd do?
 changes your working directory to the directory above the one that you are 
 currently working in(the previous directory in the path that you a are working within).
