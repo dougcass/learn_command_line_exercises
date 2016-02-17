@@ -9,7 +9,7 @@
 `pushd ~/workspace` -takes me to the workspace directory and pushd the 
 alex directory that I was in so I can go back to it.
 `popd`-takes me out of the current directory and puts me in to the alex directory
-that I pushd earlier
+that I pushd earlier.
 
 
 ##Pushd and Popd in my own words:
