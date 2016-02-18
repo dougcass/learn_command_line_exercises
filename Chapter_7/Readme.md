@@ -75,7 +75,7 @@ rmdir 1
 
 >Can you remove the tmp directory?
 
-'rmdir tmp'
+`rmdir tmp`
 No you cannot remove the tmp directory because the directory is not empty.
 
 
