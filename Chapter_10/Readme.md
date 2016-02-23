@@ -28,6 +28,9 @@ cp foo.txt /tmp
 
 > Can you copy .bash_profile in your home directory to the current
  directory?
+ 
+ `cp .bash_profile ~/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises
+ /chapter_10/tmp/`
 
 > What is Robocopy?
 
@@ -35,3 +38,4 @@ Robocopy, or "Robust File Copy" is an application tthat allows users
 to copy entire folders using the command line interface.  Robocopy 
 is a Windows apllication and is not available for the Mac OS.
  
+
