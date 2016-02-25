@@ -14,7 +14,7 @@ in the newerplace directory.
 
 > Copy a file to your home directory or desktop.
 
-`cp awesome.txt cd`
+`cp awesome.txt ~/`
 With this command I copied awesome.txt to the home directory.
 
 
