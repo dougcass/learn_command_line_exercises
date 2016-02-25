@@ -18,12 +18,12 @@
 
 > Can you remove everything in the slash temp slash foo directory?
 
-`rm -rf /temp`
+`rm -rf /temp/foo`
 
 > The Danger of `rm -rf /` explained:
 
 The command `rm -rf /` is dangerous to run because it would erase the
-entirety of your home directory.  Recursive traverses all subfolders and would
-erase everything in the home directory.
+entirety of your root directory.  Recursive traverses all subfolders and would
+erase everything in the root directory(home directory, operating system etc...)
 
 
