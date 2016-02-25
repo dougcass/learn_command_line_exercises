@@ -30,10 +30,12 @@ text file where displayed in the terminal.
 ##Questions:
 
 > Can you show me the contents of database.yml?
+
 ```
 cd tmp
 cat database.yml
 ```
+ouptut: `here are the database contents`
 
 > What is in your Gemfile?
 
@@ -41,3 +43,4 @@ cat database.yml
 cd tmp
 cat Gemfile
 ```
+output: `here are the Gemfile contents`
