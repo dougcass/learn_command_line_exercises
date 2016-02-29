@@ -8,11 +8,11 @@
 
 > Can you put "This class is fun" into bar.txt?
 
-`"This class is fun" > bar.txt`
+`echo "This class is fun" > bar.txt`
 
 > Can you put "Oh so much fun" into foo.txt?
 
-`"Oh so much fun" > foo.txt`
+`echo "Oh so much fun" > foo.txt`
 
 > Explain what the |, <, > and >> commands do in your own words.
 
